@@ -6,15 +6,15 @@ class Ldap_model extends CI_Model{
   }
 
   public function logar_ldap(){
-    $ldaphost = '10.20.10.40';
-    $ldapport = 389;
+    $ldaphost = ''; //IP
+    $ldapport = ''; //Porta
     $dn = "dc=utfpr,dc=edu,dc=br";
     $autentica = false;
 
     $usuario = $this->input->post('login');
     $senha = $this->input->post('senha');
 
-    if($usuario == 'admin' && $senha == 'monitoria@2017'){ // caso for admin, não realiza conecção ao Ldap e entra na área admin
+    if($usuario == 'admin' && $senha == ''){ // caso for admin, não realiza conecção ao Ldap e entra na área admin
 
       $data['login'] = $usuario;
       $data['nome'] = "admin";
