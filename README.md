@@ -5,4 +5,3 @@ Sistema para auxiliar o processo de seleção de monitores da UTFPR-Cornélio Pr
 Relatório com todos os dados do projeto:
 https://drive.google.com/file/d/1t4pbNFBvkS3zxznYmZI-NuhxuwsC8tGI/view
 
-Site: http://monitoria.cp.utfpr.edu.br/ (só é acessível dentro da rede da UTFPR-CP).
