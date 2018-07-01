@@ -1,4 +1,4 @@
-# sistema_de_monitoria_utfpr
+# Sistema_De_Monitoria_Academica_UTFPR
 
 Sistema para auxiliar o processo de seleção de monitores da UTFPR-Cornélio Procópio/PR feito durante o estágio obrigatório no Departamento de Educação da universidade.Gera a minuta de edital do Programa de Monitoria Acadêmica da UTFPR e faz a seleção de alunos monitores.
 
